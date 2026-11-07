@@ -1,0 +1,2 @@
+# Franco-Barkbi-Bug-Clicker
+Didn't know where else to put this little dude for release. Requires <a href="https://x.com/BUGnDEV/status/2106744475112653062">Bug-Clicker</a> already installed. <br> <br> To import him into Bug-Clicker, right-click your current Bug and open settings; from there, navigate to share and then import the attached file. <br> <br> If I should take this down, let me know; I don't know where else to have him be, lol. <br> Have fun with him!
